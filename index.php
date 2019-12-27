@@ -23,8 +23,10 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 <link rel='stylesheet' id='font-awesome-5-all-css'  href='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.0.3' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-4-shim-css'  href='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.8.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-global-css'  href='http://standoutinterviews.ca/wp-content/uploads/elementor/css/global.css?ver=1577483392' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-15-css'  href='http://standoutinterviews.ca/wp-content/uploads/elementor/css/post-15.css?ver=1577483394' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-15-css'  href='http://standoutinterviews.ca/wp-content/uploads/elementor/css/post-15.css?ver=1577486191' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.9.0' type='text/css' media='all' />
 <script type='text/javascript' src='http://standoutinterviews.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script type='text/javascript' src='http://standoutinterviews.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script src='http://standoutinterviews.ca/wp-content/plugins/event-tickets/common/src/resources/js/underscore-before.js'></script>
@@ -101,7 +103,7 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 <li id="menu-item-81" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-81"><a href="http://standoutinterviews.ca#services" aria-current="page">Services</a></li>
 <li id="menu-item-82" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-82"><a href="http://standoutinterviews.ca#about" aria-current="page">About</a></li>
 <li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-25"><a href="http://standoutinterviews.ca#contact" aria-current="page">Contact</a></li>
-<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-90"><a href="http://standoutinterviews.ca/index.php/events/category/workshops/">Workshops</a></li>
+<li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"><a href="/index.php/events">Events Calendar</a></li>
 </ul>	</div>
 </div>
 
@@ -182,7 +184,7 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-81"><a href="http://standoutinterviews.ca#services" aria-current="page">Services</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-82"><a href="http://standoutinterviews.ca#about" aria-current="page">About</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-25"><a href="http://standoutinterviews.ca#contact" aria-current="page">Contact</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-90"><a href="http://standoutinterviews.ca/index.php/events/category/workshops/">Workshops</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"><a href="/index.php/events">Events Calendar</a></li>
 </ul>	</div>
 </div>
 
@@ -251,7 +253,58 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 				</div>
 				<div class="elementor-element elementor-element-dfd2703 elementor-widget elementor-widget-text-editor" data-id="dfd2703" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p><span style="color: #000000; font-size: medium; font-family: Arial, Helvetica, sans-serif; font-weight: 400; margin: 0px;">I will be running periodic workshops on various aspects of interviewing. </span><span style="color: #000000; font-size: medium; font-family: Arial, Helvetica, sans-serif; font-weight: 400;">Some of the different workshops will include:</span></p><p style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; margin-bottom: 10.66px;"><span style="font-size: medium;"><span style="color: #000000;"><b>Mastering an Interview:</b><span style="margin: 0px;">  </span>This workshop will focus on showing the candidate what is actually happening on the other side of the table.  Learn how to predict the interview questions that will be asked and how best to answer them.  In addition, find out how interviewers make a decision within the first 90 seconds along with more tips and tricks.  </span></span></p><p style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; margin-bottom: 10.66px;"><span style="font-size: medium;"><span style="color: #000000;"><strong>Introduction to Interviews:</strong>  This workshop is for those who are entering into the workforce for the first time and have little to no experience with interviews.  They say interviews take practice and I couldn&#8217;t agree more with this statement.  This workshop will give you a head start in helping you prepare and knowing what to expect from the first phone call scheduling your interview to your job offer!   </span></span></p><p style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; margin-bottom: 10.66px;"><strong><span style="font-size: medium;"><span style="color: #000000;">Recruiting for Small Businesses: </span></span></strong><span style="font-size: medium;"><span style="color: #000000;">This workshop is geared towards small businesses who would like to brush up on their recruitment skills in order to get the best employee.  Learn the steps that you should take to prepare for an interview, find out what questions you should ask your candidates based on the position you wish to fill and how to decipher the candidates responses.  </span></span></p><p style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; margin-bottom: 10.66px;"><strong><span style="font-size: medium;"><span style="color: #000000;">Resume and Cover Letter Workshop: </span></span></strong><span style="font-size: medium;"><span style="color: #000000;">Learn how to write an effective cover letter and resume.  Find out from first hand experience how a recruiter will review your application and how to best use this to your advantage. </span></span></p><p style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; margin-bottom: 10.66px;"><span style="font-size: medium;"><span style="color: #000000;"> All scheduled workshops can be found on the Schedule of Events page.  If a specific workshop is not scheduled and you are interested in one, contact me to get your name added to the list and one will be booked!  If you would like to schedule a private workshop for a group of people, please contact me directly and one can be arranged!</span></span></p><p style="font-family: Arial, Helvetica, sans-serif; margin-bottom: 10.66px;"> </p></div>
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="color: #000000; font-size: medium; font-family: Arial, Helvetica, sans-serif; font-weight: 400; margin: 0px;">I will be running periodic workshops on various aspects of interviewing. </span><span style="color: #000000; font-size: medium; font-family: Arial, Helvetica, sans-serif; font-weight: 400;">Some of the different workshops will include:</span></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-09a4a95 elementor-widget elementor-widget-accordion" data-id="09a4a95" data-element_type="widget" data-widget_type="accordion.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-accordion" role="tablist">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1011" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-1011">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a href="">Mastering an Interview</a>
+					</div>
+					<div id="elementor-tab-content-1011" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1011"><p><span style="font-size: medium;"><span style="color: #000000;">This workshop will focus on showing the candidate what is actually happening on the other side of the table.  Learn how to predict the interview questions that will be asked and how best to answer them.  In addition, find out how interviewers make a decision within the first 90 seconds along with more tips and tricks.  </span></span></p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1012" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-1012">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a href="">Introduction to Interviews</a>
+					</div>
+					<div id="elementor-tab-content-1012" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1012"><p>This workshop is for those who are entering into the workforce for the first time and have little to no experience with interviews.  They say interviews take practice and I couldn’t agree more with this statement.  This workshop will give you a head start in helping you prepare and knowing what to expect from the first phone call scheduling your interview to your job offer! </p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1013" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-1013">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a href="">Recruiting for Small Businesses</a>
+					</div>
+					<div id="elementor-tab-content-1013" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1013"><p>This workshop is geared towards small businesses who would like to brush up on their recruitment skills in order to get the best employee.  Learn the steps that you should take to prepare for an interview, find out what questions you should ask your candidates based on the position you wish to fill and how to decipher the candidates responses. </p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1014" class="elementor-tab-title" data-tab="4" role="tab" aria-controls="elementor-tab-content-1014">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a href="">Resume and Cover Letter Workshop</a>
+					</div>
+					<div id="elementor-tab-content-1014" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1014"><p>Learn how to write an effective cover letter and resume.  Find out from first hand experience how a recruiter will review your application and how to best use this to your advantage</p></div>
+				</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2fa05cb elementor-widget elementor-widget-text-editor" data-id="2fa05cb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="font-size: medium;"><span style="color: #000000;">All scheduled workshops can be found on the <a href="/index.php/events/">Events Calendar</a>.  If a specific workshop is not scheduled and you are interested in one, contact me to get your name added to the list and one will be booked!  If you would like to schedule a private workshop for a group of people, please contact me directly and one can be arranged!</span></span></p></div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-dbbed7a elementor-widget elementor-widget-heading" data-id="dbbed7a" data-element_type="widget" data-widget_type="heading.default">
