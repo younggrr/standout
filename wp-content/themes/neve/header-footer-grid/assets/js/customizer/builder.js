@@ -76,7 +76,7 @@ let CustomizeBuilderV1;
 							over: function( event, ui ) {
 								//let $wrapper = $( this );
 								/**
-								 * @see http://api.jqueryui.com/droppable/#event-over
+								 * @see https://api.jqueryui.com/droppable/#event-over
 								 */
 							},
 							drop: function( event, ui ) {

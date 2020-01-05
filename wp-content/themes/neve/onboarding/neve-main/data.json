@@ -25,7 +25,7 @@
     "neve_shop_archive_sidebar_layout": "left",
     "neve_single_product_sidebar_layout": "full-width",
     "neve_other_pages_sidebar_layout": "full-width",
-    "neve_footer_text": "<p>Original | Powered by <a href=\"http://wordpress.org\" rel=\"nofollow\">WordPress</a></p>",
+    "neve_footer_text": "<p>Original | Powered by <a href=\"https://wordpress.org\" rel=\"nofollow\">WordPress</a></p>",
     "neve_single_product_content_width": 100,
     "ti_about_recommended_plugins": {
       "otter-blocks": "visible"

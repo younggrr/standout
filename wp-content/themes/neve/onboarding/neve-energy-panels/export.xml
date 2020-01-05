@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- generator="WordPress/5.2.1" created="2019-08-02 10:50" -->
 <rss version="2.0"
-	 xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	 xmlns:dc="http://purl.org/dc/elements/1.1/"
-	 xmlns:wp="http://wordpress.org/export/1.2/"
+	 xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	 xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="https://purl.org/dc/elements/1.1/"
+	 xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 	<channel>
@@ -1369,7 +1369,7 @@
 				How to enable e-bill?			</title>
 			<link>https://demo.themeisle.com/neve-energy-panels/2018/07/09/how-to-enable-e-bill/</link>
 			<pubDate>Mon, 09 Jul 2018 12:37:32 +0000</pubDate>
-			<guid isPermaLink="false">http://energydemo.local/?p=118</guid>
+			<guid isPermaLink="false">https://energydemo.local/?p=118</guid>
 			<description></description>
 			<content:encoded><![CDATA[Celery quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard.]]></content:encoded><excerpt:encoded><![CDATA[]]></excerpt:encoded>			<wp:post_id>118</wp:post_id>
 			<wp:post_date><![CDATA[2018-07-09 12:37:32]]></wp:post_date>
@@ -1418,7 +1418,7 @@
 				Bills can only be paid online			</title>
 			<link>https://demo.themeisle.com/neve-energy-panels/2018/07/09/bills-can-only-be-paid-online/</link>
 			<pubDate>Mon, 09 Jul 2018 12:38:10 +0000</pubDate>
-			<guid isPermaLink="false">http://energydemo.local/?p=121</guid>
+			<guid isPermaLink="false">https://energydemo.local/?p=121</guid>
 			<description></description>
 			<content:encoded><![CDATA[Pea horseradish azuki bean lettuce avocado asparagus okra. Kohlrabi radish okra azuki bean corn fava bean mustard tigernut jícama green bean celtuce collard greens avocado quandong fennel gumbo black-eyed pea. Grape silver beet watercress potato tigernut corn groundnut. Chickweed okra pea winter purslane coriander yarrow sweet pepper radish garlic brussels sprout groundnut summer purslane earthnut pea tomato spring onion azuki bean gourd. Gumbo kakadu plum komatsuna black-eyed pea green bean zucchini gourd winter purslane silver beet rock melon radish asparagus spinach.]]></content:encoded><excerpt:encoded><![CDATA[]]></excerpt:encoded>			<wp:post_id>121</wp:post_id>
 			<wp:post_date><![CDATA[2018-07-09 12:38:10]]></wp:post_date>
@@ -1467,7 +1467,7 @@
 				LED light bulbs reduce your bill			</title>
 			<link>https://demo.themeisle.com/neve-energy-panels/2018/07/09/led-light-bulbs-reduce-your-bill/</link>
 			<pubDate>Mon, 09 Jul 2018 12:39:33 +0000</pubDate>
-			<guid isPermaLink="false">http://energydemo.local/?p=124</guid>
+			<guid isPermaLink="false">https://energydemo.local/?p=124</guid>
 			<description></description>
 			<content:encoded><![CDATA[Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale radicchio turnip chicory salsify pea sprouts fava bean. Dandelion zucchini burdock yarrow chickpea dandelion sorrel courgette turnip greens tigernut soybean radish artichoke wattle seed endive groundnut broccoli arugula.]]></content:encoded><excerpt:encoded><![CDATA[]]></excerpt:encoded>			<wp:post_id>124</wp:post_id>
 			<wp:post_date><![CDATA[2018-07-09 12:39:33]]></wp:post_date>

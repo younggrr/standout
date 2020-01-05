@@ -44,7 +44,7 @@ const addMenuItem = function() {
 	integrationToggle.classList.add( 'components-button',
 			'components-icon-button', 'components-menu-item__button' );
 
-	integrationToggle.innerHTML = '<svg style="display: none;" aria-hidden="true" role="img" focusable="false" class="dashicon dashicons-yes" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><path d="M14.83 4.89l1.34.94-5.81 8.38H9.02L5.78 9.67l1.34-1.25 2.57 2.4z"></path></svg><span class="components-menu-item__info-wrapper">' +
+	integrationToggle.innerHTML = '<svg style="display: none;" aria-hidden="true" role="img" focusable="false" class="dashicon dashicons-yes" xmlns="https://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><path d="M14.83 4.89l1.34.94-5.81 8.38H9.02L5.78 9.67l1.34-1.25 2.57 2.4z"></path></svg><span class="components-menu-item__info-wrapper">' +
 			neveGutenbergHelper.strings.menuItemTitle + '</span>';
 
 	if ( integrationStatus === 'enabled' ) {

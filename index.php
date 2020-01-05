@@ -4,44 +4,44 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
 		<title>Standout Interview Coaching &#8211; Mastering interviews from both sides of the table</title>
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Standout Interview Coaching &raquo; Feed" href="http://standoutinterviews.ca/index.php/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Standout Interview Coaching &raquo; Comments Feed" href="http://standoutinterviews.ca/index.php/comments/feed/" />
-<link rel="alternate" type="text/calendar" title="Standout Interview Coaching &raquo; iCal Feed" href="http://standoutinterviews.ca/index.php/events/?ical=1" />
-<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='http://standoutinterviews.ca/wp-content/plugins/event-tickets/common/src/resources/css/common-skeleton.min.css?ver=4.10.3' type='text/css' media='all' />
-<link rel='stylesheet' id='tribe-tooltip-css'  href='http://standoutinterviews.ca/wp-content/plugins/event-tickets/common/src/resources/css/tooltip.min.css?ver=4.10.3' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='http://standoutinterviews.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='neve-style-css'  href='http://standoutinterviews.ca/wp-content/themes/neve/style.min.css?ver=2.4.0' type='text/css' media='all' />
+<link rel="alternate" type="application/rss+xml" title="Standout Interview Coaching &raquo; Feed" href="https://standoutinterviews.ca/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Standout Interview Coaching &raquo; Comments Feed" href="https://standoutinterviews.ca/index.php/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Standout Interview Coaching &raquo; iCal Feed" href="https://standoutinterviews.ca/index.php/events/?ical=1" />
+<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='https://standoutinterviews.ca/wp-content/plugins/event-tickets/common/src/resources/css/common-skeleton.min.css?ver=4.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://standoutinterviews.ca/wp-content/plugins/event-tickets/common/src/resources/css/tooltip.min.css?ver=4.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://standoutinterviews.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='neve-style-css'  href='https://standoutinterviews.ca/wp-content/themes/neve/style.min.css?ver=2.4.0' type='text/css' media='all' />
 <style id='neve-style-inline-css' type='text/css'>
 a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ffffff;}.has-white-color{color:#ffffff;}.has-black-background-color{background-color:#000000;}.has-black-color{color:#000000;}.has-neve-button-color-background-color{background-color:#0366d6;}.has-neve-button-color-color{color:#0366d6;}.has-neve-link-color-background-color{background-color:#0366d6;}.has-neve-link-color-color{color:#0366d6;}.has-neve-link-hover-color-background-color{background-color:#67b3a3;}.has-neve-link-hover-color-color{color:#67b3a3;}.has-neve-text-color-background-color{background-color:#404248;}.has-neve-text-color-color{color:#404248;} @media (max-width: 576px) { .site-logo img { max-width: 120px; } } @media (min-width: 576px) { .site-logo img { max-width: 120px; } } @media (min-width: 961px) { .site-logo img { max-width: 57px; } } .builder-item--primary-menu > .nv-nav-wrap > .nav-menu-primary > ul.primary-menu-ul li:not(.woocommerce-mini-cart-item) > a, .builder-item--primary-menu > .nv-nav-wrap > .nav-menu-primary > ul.primary-menu-ul li > a .caret-wrap .caret { color: #404248; } .builder-item--primary-menu > .nv-nav-wrap > .nav-menu-primary > ul.primary-menu-ul li:not(.woocommerce-mini-cart-item) > a:after { background-color: #0366d6; } .builder-item--primary-menu > .nv-nav-wrap > .nav-menu-primary > ul.primary-menu-ul li:not(.woocommerce-mini-cart-item):hover > a,.builder-item--primary-menu > .nv-nav-wrap > .nav-menu-primary > ul.primary-menu-ul li:hover > a > .caret-wrap .caret { color: #0366d6; } .builder-item--primary-menu > .nv-nav-wrap > .nav-menu-primary > ul.primary-menu-ul li.current-menu-item a, .builder-item--primary-menu > .nv-nav-wrap > .nav-menu-primary > ul.primary-menu-ul li.current-menu-item a .caret-wrap .caret { color: #0366d6; } 
 </style>
-<link rel='stylesheet' id='elementor-icons-css'  href='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.5.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-animations-css'  href='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.8.2' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css'  href='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.8.2' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-5-all-css'  href='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-4-shim-css'  href='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.8.2' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css'  href='http://standoutinterviews.ca/wp-content/uploads/elementor/css/global.css?ver=1577483392' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-15-css'  href='http://standoutinterviews.ca/wp-content/uploads/elementor/css/post-15.css?ver=1577486191' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://standoutinterviews.ca/wp-content/uploads/elementor/css/global.css?ver=1577483392' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-15-css'  href='https://standoutinterviews.ca/wp-content/uploads/elementor/css/post-15.css?ver=1577486191' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.9.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.9.0' type='text/css' media='all' />
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script src='http://standoutinterviews.ca/wp-content/plugins/event-tickets/common/src/resources/js/underscore-before.js'></script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
-<script src='http://standoutinterviews.ca/wp-content/plugins/event-tickets/common/src/resources/js/underscore-after.js'></script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-includes/js/wp-util.js?ver=5.3.2'></script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=2.8.2'></script>
-<link rel='https://api.w.org/' href='http://standoutinterviews.ca/index.php/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://standoutinterviews.ca/xmlrpc.php?rsd" />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.9.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script src='https://standoutinterviews.ca/wp-content/plugins/event-tickets/common/src/resources/js/underscore-before.js'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script src='https://standoutinterviews.ca/wp-content/plugins/event-tickets/common/src/resources/js/underscore-after.js'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-includes/js/wp-util.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=2.8.2'></script>
+<link rel='https://api.w.org/' href='https://standoutinterviews.ca/index.php/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://standoutinterviews.ca/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 5.3.2" />
-<link rel="canonical" href="http://standoutinterviews.ca/" />
-<link rel='shortlink' href='http://standoutinterviews.ca/' />
-<link rel="alternate" type="application/json+oembed" href="http://standoutinterviews.ca/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fstandoutinterviews.ca%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://standoutinterviews.ca/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fstandoutinterviews.ca%2F&#038;format=xml" />
-<meta name="et-api-version" content="v1"><meta name="et-api-origin" content="http://standoutinterviews.ca"><link rel="https://theeventscalendar.com/" href="http://standoutinterviews.ca/index.php/wp-json/tribe/tickets/v1/" /><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="http://standoutinterviews.ca"><link rel="https://theeventscalendar.com/" href="http://standoutinterviews.ca/index.php/wp-json/tribe/events/v1/" /><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css" id="wp-custom-css">
+<link rel="canonical" href="https://standoutinterviews.ca/" />
+<link rel='shortlink' href='https://standoutinterviews.ca/' />
+<link rel="alternate" type="application/json+oembed" href="https://standoutinterviews.ca/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fstandoutinterviews.ca%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://standoutinterviews.ca/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fstandoutinterviews.ca%2F&#038;format=xml" />
+<meta name="et-api-version" content="v1"><meta name="et-api-origin" content="https://standoutinterviews.ca"><link rel="https://theeventscalendar.com/" href="https://standoutinterviews.ca/index.php/wp-json/tribe/tickets/v1/" /><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://standoutinterviews.ca"><link rel="https://theeventscalendar.com/" href="https://standoutinterviews.ca/index.php/wp-json/tribe/events/v1/" /><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css" id="wp-custom-css">
 			.neve-freelancer-contact-form fieldset > button {
     width: 100%;
 }
@@ -84,7 +84,7 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 	data-section="title_tagline"
 	data-item-id="logo">
 	<div class="site-logo">
-	<a class="brand" href="http://standoutinterviews.ca/" title="Standout Interview Coaching"
+	<a class="brand" href="https://standoutinterviews.ca/" title="Standout Interview Coaching"
 			aria-label="Standout Interview Coaching">
 							<p class="site-title"> Standout Interview Coaching	</p>
 						</a>
@@ -99,10 +99,10 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 	<div role="navigation" class="style-plain nav-menu-primary"
 			aria-label="Primary Menu">
 
-		<ul id="nv-primary-navigation-main" class="primary-menu-ul"><li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item menu-item-93"><a href="http://standoutinterviews.ca/" aria-current="page">Home</a></li>
-<li id="menu-item-81" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-81"><a href="http://standoutinterviews.ca#services" aria-current="page">Services</a></li>
-<li id="menu-item-82" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-82"><a href="http://standoutinterviews.ca#about" aria-current="page">About</a></li>
-<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-25"><a href="http://standoutinterviews.ca#contact" aria-current="page">Contact</a></li>
+		<ul id="nv-primary-navigation-main" class="primary-menu-ul"><li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item menu-item-93"><a href="https://standoutinterviews.ca/" aria-current="page">Home</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-81"><a href="https://standoutinterviews.ca#services" aria-current="page">Services</a></li>
+<li id="menu-item-82" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-82"><a href="https://standoutinterviews.ca#about" aria-current="page">About</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-25"><a href="https://standoutinterviews.ca#contact" aria-current="page">Contact</a></li>
 <li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"><a href="/index.php/events">Events Calendar</a></li>
 </ul>	</div>
 </div>
@@ -126,7 +126,7 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 	data-section="title_tagline"
 	data-item-id="logo">
 	<div class="site-logo">
-	<a class="brand" href="http://standoutinterviews.ca/" title="Standout Interview Coaching"
+	<a class="brand" href="https://standoutinterviews.ca/" title="Standout Interview Coaching"
 			aria-label="Standout Interview Coaching">
 							<p class="site-title"> Standout Interview Coaching	</p>
 						</a>
@@ -180,10 +180,10 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 	<div role="navigation" class="style-plain nav-menu-primary"
 			aria-label="Primary Menu">
 
-		<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item menu-item-93"><a href="http://standoutinterviews.ca/" aria-current="page">Home</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-81"><a href="http://standoutinterviews.ca#services" aria-current="page">Services</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-82"><a href="http://standoutinterviews.ca#about" aria-current="page">About</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-25"><a href="http://standoutinterviews.ca#contact" aria-current="page">Contact</a></li>
+		<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item menu-item-93"><a href="https://standoutinterviews.ca/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-81"><a href="https://standoutinterviews.ca#services" aria-current="page">Services</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-82"><a href="https://standoutinterviews.ca#about" aria-current="page">About</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-25"><a href="https://standoutinterviews.ca#contact" aria-current="page">Contact</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"><a href="/index.php/events">Events Calendar</a></li>
 </ul>	</div>
 </div>
@@ -356,7 +356,7 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 				<div class="elementor-element elementor-element-066ef0a elementor-widget elementor-widget-image" data-id="066ef0a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
-										<img width="237" height="395" src="http://standoutinterviews.ca/wp-content/uploads/2019/09/Allison-SI-Pic.jpg" class="attachment-large size-large" alt="" srcset="http://standoutinterviews.ca/wp-content/uploads/2019/09/Allison-SI-Pic.jpg 237w, http://standoutinterviews.ca/wp-content/uploads/2019/09/Allison-SI-Pic-180x300.jpg 180w" sizes="(max-width: 237px) 100vw, 237px" />											</div>
+										<img width="237" height="395" src="https://standoutinterviews.ca/wp-content/uploads/2019/09/Allison-SI-Pic.jpg" class="attachment-large size-large" alt="" srcset="https://standoutinterviews.ca/wp-content/uploads/2019/09/Allison-SI-Pic.jpg 237w, https://standoutinterviews.ca/wp-content/uploads/2019/09/Allison-SI-Pic-180x300.jpg 180w" sizes="(max-width: 237px) 100vw, 237px" />											</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-716ff10 elementor-widget elementor-widget-text-editor" data-id="716ff10" data-element_type="widget" data-widget_type="text-editor.default">
@@ -391,7 +391,7 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 				</div>
 				<div class="elementor-element elementor-element-fc26ece neve-freelancer-contact-form elementor-widget elementor-widget-content_form_contact" data-id="fc26ece" data-element_type="widget" data-widget_type="content_form_contact.default">
 				<div class="elementor-widget-container">
-			<form action="http://standoutinterviews.ca/wp-admin/admin-post.php" method="post" name="content-form-fc26ece" id="content-form-fc26ece" class="ti-cf-module content-form content-form-contact content_form_contact"><input type="hidden" id="_wpnonce_contact" name="_wpnonce_contact" value="e846865884" /><input type="hidden" name="_wp_http_referer" value="/" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="contact" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="15" /><input type="hidden" name="form-id" value="fc26ece" /><fieldset class="content-form-field-text elementor-column elementor-col-100"><label for="data[fc26ece][name]" ></label><input type="text" name="data[fc26ece][name]" id="data[fc26ece][name]"   placeholder="Your Name"></fieldset><fieldset class="content-form-field-email elementor-column elementor-col-100"><label for="data[fc26ece][email]" ></label><input type="text" name="data[fc26ece][email]" id="data[fc26ece][email]"   placeholder="Email address"></fieldset><fieldset class="content-form-field-number elementor-column elementor-col-100"><label for="data[fc26ece][phone]" ></label><input type="text" name="data[fc26ece][phone]" id="data[fc26ece][phone]"   placeholder="Phone Number (Optional)"></fieldset><fieldset class="content-form-field-textarea elementor-column elementor-col-100"><label for="data[fc26ece][message]" ></label><textarea name="data[fc26ece][message]" id="data[fc26ece][message]"   placeholder="Your message" cols="30" rows="5"></textarea></fieldset><fieldset class="submit-form contact"><button type="submit" name="submit"  value="submit-contact-fc26ece" class="">Submit</button></fieldset></form>		</div>
+			<form action="https://standoutinterviews.ca/wp-admin/admin-post.php" method="post" name="content-form-fc26ece" id="content-form-fc26ece" class="ti-cf-module content-form content-form-contact content_form_contact"><input type="hidden" id="_wpnonce_contact" name="_wpnonce_contact" value="e846865884" /><input type="hidden" name="_wp_http_referer" value="/" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="contact" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="15" /><input type="hidden" name="form-id" value="fc26ece" /><fieldset class="content-form-field-text elementor-column elementor-col-100"><label for="data[fc26ece][name]" ></label><input type="text" name="data[fc26ece][name]" id="data[fc26ece][name]"   placeholder="Your Name"></fieldset><fieldset class="content-form-field-email elementor-column elementor-col-100"><label for="data[fc26ece][email]" ></label><input type="text" name="data[fc26ece][email]" id="data[fc26ece][email]"   placeholder="Email address"></fieldset><fieldset class="content-form-field-number elementor-column elementor-col-100"><label for="data[fc26ece][phone]" ></label><input type="text" name="data[fc26ece][phone]" id="data[fc26ece][phone]"   placeholder="Phone Number (Optional)"></fieldset><fieldset class="content-form-field-textarea elementor-column elementor-col-100"><label for="data[fc26ece][message]" ></label><textarea name="data[fc26ece][message]" id="data[fc26ece][message]"   placeholder="Your message" cols="30" rows="5"></textarea></fieldset><fieldset class="submit-form contact"><button type="submit" name="submit"  value="submit-contact-fc26ece" class="">Submit</button></fieldset></form>		</div>
 				</div>
 				<div class="elementor-element elementor-element-e429c9a elementor-widget elementor-widget-divider" data-id="e429c9a" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -425,7 +425,7 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 	data-section="footer_copyright"
 	data-item-id="footer_copyright">
 	<div class="component-wrap">
-	<p><a href="https://themeisle.com/themes/neve/" rel="nofollow">Neve</a> | Powered by <a href="http://wordpress.org" rel="nofollow">WordPress</a></p></div>
+	<p><a href="https://themeisle.com/themes/neve/" rel="nofollow">Neve</a> | Powered by <a href="https://wordpress.org" rel="nofollow">WordPress</a></p></div>
 
 	</div>
 
@@ -443,29 +443,29 @@ a:hover, a:focus{color:#67b3a3;}.has-white-background-color{background-color:#ff
 			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
 		} )( document.body );
 		</script>
-		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"},"registration_prompt":"There is unsaved attendee information. Are you sure you want to continue?"};/* ]]> */ </script><link rel='stylesheet' id='content-forms-css'  href='http://standoutinterviews.ca/wp-content/plugins/themeisle-companion/vendor/codeinwp/themeisle-content-forms/assets/content-forms.css?ver=1.0.0' type='text/css' media='all' />
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"},"registration_prompt":"There is unsaved attendee information. Are you sure you want to continue?"};/* ]]> */ </script><link rel='stylesheet' id='content-forms-css'  href='https://standoutinterviews.ca/wp-content/plugins/themeisle-companion/vendor/codeinwp/themeisle-content-forms/assets/content-forms.css?ver=1.0.0' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
 var NeveProperties = {"ajaxurl":"http:\/\/standoutinterviews.ca\/wp-admin\/admin-ajax.php","nonce":"4a7543b0f8"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-content/themes/neve/assets/js/frontend.js?ver=2.4.0'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-content/themes/neve/assets/js/frontend.js?ver=2.4.0'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var contentFormsSettings = {"restUrl":"http:\/\/standoutinterviews.ca\/index.php\/wp-json\/content-forms\/v1\/","nonce":"4a7543b0f8"};
 var formStyle = {"formStyle":"style=\"margin-left:0; text-align:left\""};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-content/plugins/themeisle-companion/vendor/codeinwp/themeisle-content-forms/assets/content-forms.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.8.2'></script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.3'></script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-content/plugins/themeisle-companion/vendor/codeinwp/themeisle-content-forms/assets/content-forms.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.8.2'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6'></script>
 <script type='text/javascript'>
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.8.2","urls":{"assets":"http:\/\/standoutinterviews.ca\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes"},"editorPreferences":[]},"post":{"id":15,"title":"Home","excerpt":""}};
 </script>
-<script type='text/javascript' src='http://standoutinterviews.ca/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.8.2'></script>
+<script type='text/javascript' src='https://standoutinterviews.ca/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.8.2'></script>
 
 </body>
 
